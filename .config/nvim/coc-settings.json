@@ -1,0 +1,15 @@
+{
+  // Lua settings
+  "sumneko-lua.enableNvimLuaDev": true,
+  "Lua.completion.callSnippet": "Replace",
+  "Lua.completion.postfix": "@",
+
+  // Languageserver
+//  "languageserver": {
+//    "clangd": {
+//      "command": "clangd",
+//      "ignoredRootPaths": ["compile_flags.txt", "compile_commands.json"],
+//      "filetypes": ["cpp", "c", "cc", "c++", "objc", "objcpp"]
+//    }
+//  }
+}
